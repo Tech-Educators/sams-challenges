@@ -4,7 +4,7 @@
 
 - Rock-Paper-Scissors
 - Calculator (stretch, scientific)
-- Naughts & Crosses
+- Noughts & Crosses
 - Pong
 - Whac-a-mole
 - Stopwatch
